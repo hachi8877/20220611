@@ -1,0 +1,16 @@
+.box {
+ 
+}
+
+.box1{
+  list-style-type: none;
+  display: flex;
+  max-width: 790px;
+  margin: 0 auto;
+}
+
+img {
+  width: 200px;
+  padding: 20px;
+}
+
